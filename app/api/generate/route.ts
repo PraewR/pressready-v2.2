@@ -6,7 +6,8 @@ import { BriefingSchema, PressReadyOutputSchema } from "@/lib/schema";
 import { retrieveAnchors } from "@/lib/retrieval";
 import { buildInstructions, buildUserInput } from "@/lib/prompt";
 import { generateMock } from "@/lib/mock";
-
+export const runtime = "nodejs";
+export const dynamic = "force-dynamic";
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 
@@ -21,9 +22,8 @@ export async function POST(req: Request) {
       const data = generateMock(brief, anchors);
       return NextResponse.json({ ok: true, data, mode: "mock" });
     }
-
+const client = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
     // ✅ Create client only when key exists
-    const client = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
     const model = process.env.OPENAI_MODEL || "gpt-5.2";
     const jsonSchema = zodToJsonSchema(PressReadyOutputSchema, { $refStrategy: "none" });
