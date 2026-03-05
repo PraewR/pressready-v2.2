@@ -8,8 +8,6 @@ import { buildInstructions, buildUserInput } from "@/lib/prompt";
 import { generateMock } from "@/lib/mock";
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
-export const runtime = "nodejs";
-export const dynamic = "force-dynamic";
 
 export async function POST(req: Request) {
   try {
