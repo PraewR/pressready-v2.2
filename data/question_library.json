@@ -1,0 +1,4075 @@
+{
+  "version": 2,
+  "items": [
+    {
+      "id": "thailand-1",
+      "country": "Thailand",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "FedEx",
+      "question": "How has FedEx grown under your leadership over the past year?"
+    },
+    {
+      "id": "thailand-2",
+      "country": "Thailand",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "FedEx",
+      "question": "Up to this point, what do you consider the most significant achievement or milestone for FedEx under your leadership?"
+    },
+    {
+      "id": "thailand-3",
+      "country": "Thailand",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "FedEx",
+      "question": "What is your long-term vision for FedEx Thailand?"
+    },
+    {
+      "id": "thailand-4",
+      "country": "Thailand",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "FedEx",
+      "question": "With many logistics companies now expanding across the region, what makes FedEx Thailand stand out in driving growth in secondary cities, beyond opening new service centers?"
+    },
+    {
+      "id": "thailand-5",
+      "country": "Thailand",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Tetra Pak",
+      "question": "Many provinces in Thailand’s Eastern region are experiencing strong growth — similar to developments in Vietnam and Indonesia. Why has FedEx chosen to focus its investment primarily in Thailand rather than distributing resources to other ASEAN countries?"
+    },
+    {
+      "id": "thailand-6",
+      "country": "Thailand",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Tetra Pak",
+      "question": "What type of business is Tetra Pak?"
+    },
+    {
+      "id": "thailand-7",
+      "country": "Thailand",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Tetra Pak",
+      "question": "Why is Tetra Pak interested in the ready-to-drink coffee market? (current coffee consumption trends)"
+    },
+    {
+      "id": "thailand-8",
+      "country": "Thailand",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Tetra Pak",
+      "question": "If entrepreneurs are interested in collaborating with Tetra Pak, how can they do so?"
+    },
+    {
+      "id": "thailand-9",
+      "country": "Thailand",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Tetra Pak",
+      "question": "Apart from packaging production, does Tetra Pak offer any additional services to support business owners?"
+    },
+    {
+      "id": "thailand-10",
+      "country": "Thailand",
+      "industry": "FinTech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Mastercard",
+      "question": "How would you describe the current state of Thailand’s payments ecosystem, especially in light of PromptPay’s dominance and the rise of mobile-first consumers?"
+    },
+    {
+      "id": "thailand-11",
+      "country": "Thailand",
+      "industry": "FinTech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Mastercard",
+      "question": "What role does Mastercard envision for itself in a market where credit transfers and QR-based payments are surging?"
+    },
+    {
+      "id": "thailand-12",
+      "country": "Thailand",
+      "industry": "FinTech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Mastercard",
+      "question": "How is Mastercard adapting its strategy to remain relevant in a landscape increasingly shaped by real-time payments and proxy-based systems?"
+    },
+    {
+      "id": "thailand-13",
+      "country": "Thailand",
+      "industry": "FinTech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Mastercard",
+      "question": "With mobile wallets and contactless payments gaining traction, what is the future of physical and virtual card products in Thailand?"
+    },
+    {
+      "id": "thailand-14",
+      "country": "Thailand",
+      "industry": "FinTech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Mastercard",
+      "question": "How does Mastercard plan to integrate with or compete against super apps and mobile-first platforms like Alipay or local fintechs?"
+    },
+    {
+      "id": "thailand-15",
+      "country": "Thailand",
+      "industry": "FinTech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Mastercard",
+      "question": "Are there innovations in card technology (e.g. biometric cards, tokenization) that Mastercard is prioritizing to enhance security and user experience?"
+    },
+    {
+      "id": "thailand-16",
+      "country": "Thailand",
+      "industry": "FinTech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Mastercard",
+      "question": "What are Mastercard’s plans to support Thai SMEs and micro-merchants in accessing global markets through digital payments?"
+    },
+    {
+      "id": "thailand-17",
+      "country": "Thailand",
+      "industry": "FinTech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Mastercard",
+      "question": "Can you share Mastercard’s vision for agentic commerce and AI-powered transactions in Southeast Asia? How close are we to seeing intelligent assistants managing payments autonomously?"
+    },
+    {
+      "id": "thailand-18",
+      "country": "Thailand",
+      "industry": "FinTech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Mastercard",
+      "question": "What are the biggest challenges Mastercard faces in integrating blockchain and stablecoins into mainstream payment infrastructure?"
+    },
+    {
+      "id": "thailand-19",
+      "country": "Thailand",
+      "industry": "Hospitality",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "LAS VEGAS SANDS",
+      "question": "Given Thailand’s ambition to become a top-3 global entertainment hub, how can it maximize economic benefits while maintaining sustainable growth?"
+    },
+    {
+      "id": "thailand-20",
+      "country": "Thailand",
+      "industry": "Hospitality",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "LAS VEGAS SANDS",
+      "question": "Since Thailand is developing its own Entertainment Complex modeled after successful projects like Marina Bay Sands, what key insights from Marina Bay Sands' success could Thailand apply to ensure its Entertainment Complex thrives?"
+    },
+    {
+      "id": "thailand-21",
+      "country": "Thailand",
+      "industry": "Hospitality",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "LAS VEGAS SANDS",
+      "question": "Would Las Vegas Sands consider investing in Thailand’s project, and what conditions would make it an attractive opportunity?"
+    },
+    {
+      "id": "thailand-22",
+      "country": "Thailand",
+      "industry": "Hospitality",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "LAS VEGAS SANDS",
+      "question": "What are the biggest hurdles in launching a large-scale entertainment complex, and how can Thailand navigate them effectively?"
+    },
+    {
+      "id": "thailand-23",
+      "country": "Thailand",
+      "industry": "Hospitality",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "LAS VEGAS SANDS",
+      "question": "Given Thailand’s consideration of an entertainment complex without a casino, do you believe such a model can still attract high-end tourism and investment?"
+    },
+    {
+      "id": "thailand-24",
+      "country": "Thailand",
+      "industry": "Hospitality",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "LAS VEGAS SANDS",
+      "question": "Without gaming revenue, what alternative attractions (e.g., luxury retail, live entertainment, esports) could drive profitability?"
+    },
+    {
+      "id": "thailand-25",
+      "country": "Thailand",
+      "industry": "Hospitality",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "LAS VEGAS SANDS",
+      "question": "Have there been successful casino-free integrated resorts globally, and what lessons can Thailand learn from them?"
+    },
+    {
+      "id": "thailand-26",
+      "country": "Thailand",
+      "industry": "Hospitality",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "LAS VEGAS SANDS",
+      "question": "Would Las Vegas Sands or other major players still consider investing in Thailand’s project if casinos were excluded?"
+    },
+    {
+      "id": "thailand-27",
+      "country": "Thailand",
+      "industry": "Hospitality",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "LAS VEGAS SANDS",
+      "question": "Could Thailand and Singapore’s entertainment complexes complement each other rather than compete, creating a regional tourism powerhouse?"
+    },
+    {
+      "id": "thailand-28",
+      "country": "Thailand",
+      "industry": "Consumer Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Study Group",
+      "question": "What specific changes in Thailand’s and/or Southeast Asian student mobility patterns have emerged since COVID, and which of these changes appear to be permanent?"
+    },
+    {
+      "id": "thailand-29",
+      "country": "Thailand",
+      "industry": "Consumer Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Study Group",
+      "question": "What are the key factors influencing Thai students’ and families’ decisions to pursue international education in 2025, and have these factors shifted from the previous year?"
+    },
+    {
+      "id": "thailand-30",
+      "country": "Thailand",
+      "industry": "Consumer Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Study Group",
+      "question": "How are rising tuition costs, economic uncertainty, and policy shifts (e.g., visas, work rights) affecting where Thai students choose to of study?"
+    },
+    {
+      "id": "thailand-31",
+      "country": "Thailand",
+      "industry": "Consumer Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Study Group",
+      "question": "What advantages do pathway programs—such as International Year One (IY1)—offer Thai students compared to direct university entry?"
+    },
+    {
+      "id": "thailand-32",
+      "country": "Thailand",
+      "industry": "Consumer Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Study Group",
+      "question": "What role do human-centric skills (e.g., critical thinking, adaptability, intercultural communication) play in motivating students to choose structured pathway programs?"
+    },
+    {
+      "id": "thailand-33",
+      "country": "Thailand",
+      "industry": "Consumer Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Study Group",
+      "question": "Are Thai or Southeast Asian students increasingly choosing regional destinations (e.g., Singapore, Australia) over traditional universities in the UK and US? If yes, what’s driving these preferences?"
+    },
+    {
+      "id": "thailand-34",
+      "country": "Thailand",
+      "industry": "Consumer Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Study Group",
+      "question": "How do perceptions of safety, support, and student experience influence the perceived value of study abroad opportunities among Thai families?"
+    },
+    {
+      "id": "thailand-35",
+      "country": "Thailand",
+      "industry": "Consumer Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Study Group",
+      "question": "What skills do modern Thai and global employers expect from international education graduates?"
+    },
+    {
+      "id": "thailand-36",
+      "country": "Thailand",
+      "industry": "Consumer Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Study Group",
+      "question": "How do you see the Thailand and SEA international education landscape in the next 3-5 years? What would it look like?"
+    },
+    {
+      "id": "thailand-37",
+      "country": "Thailand",
+      "industry": "Consumer Goods/FMCG",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Nespresso",
+      "question": "What inspired Nespresso to introduce the concept of ‘My Cup of Purpose’ in Thailand, and how does it reflect the brand’s business strategy?"
+    },
+    {
+      "id": "thailand-38",
+      "country": "Thailand",
+      "industry": "Consumer Goods/FMCG",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Nespresso",
+      "question": "How does Nespresso maintain its leadership in the premium coffee market in Thailand?"
+    },
+    {
+      "id": "thailand-39",
+      "country": "Thailand",
+      "industry": "Consumer Goods/FMCG",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Nespresso",
+      "question": "Are there any plans to expand Nespresso’s presence or offerings in Thailand in the near future?"
+    },
+    {
+      "id": "thailand-40",
+      "country": "Thailand",
+      "industry": "Consumer Goods/FMCG",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Nespresso",
+      "question": "Premium coffee is a competitive market in Thailand, with both global and local brands expanding. How does Nespresso justify its higher price point to Thai consumers?"
+    },
+    {
+      "id": "thailand-41",
+      "country": "Thailand",
+      "industry": "Consumer Goods/FMCG",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Nespresso",
+      "question": "How does the ‘My Cup of Purpose’ concept integrate into consumers’ daily routines or lifestyles?"
+    },
+    {
+      "id": "thailand-42",
+      "country": "Thailand",
+      "industry": "Consumer Goods/FMCG",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Nespresso",
+      "question": "Some consumers see capsule coffee as convenient but less authentic compared to traditional brewing methods. How does Nespresso respond to that perception?"
+    },
+    {
+      "id": "thailand-43",
+      "country": "Thailand",
+      "industry": "Consumer Goods/FMCG",
+      "category": "Sustainability/ESG",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Nespresso",
+      "question": "Can you explain the ‘Second Life’ initiative and the impact it has had so far on sustainability in Thailand?"
+    },
+    {
+      "id": "thailand-44",
+      "country": "Thailand",
+      "industry": "Consumer Goods/FMCG",
+      "category": "Sustainability/ESG",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Nespresso",
+      "question": "How does Nespresso encourage customers to participate in sustainability efforts, such as returning used capsules?"
+    },
+    {
+      "id": "thailand-45",
+      "country": "Thailand",
+      "industry": "Consumer Goods/FMCG",
+      "category": "Sustainability/ESG",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Nespresso",
+      "question": "Could you share measurable outcomes from Nespresso’s sustainability projects in Thailand so far?"
+    },
+    {
+      "id": "thailand-46",
+      "country": "Thailand",
+      "industry": "Consumer Goods/FMCG",
+      "category": "Sustainability/ESG",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Nespresso",
+      "question": "What are the key milestones in Nespresso’s 2025 Sustainability Roadmap under the 3Cs pillars — Circularity, Climate, and Community?"
+    },
+    {
+      "id": "thailand-47",
+      "country": "Thailand",
+      "industry": "Consumer Goods/FMCG",
+      "category": "Sustainability/ESG",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Nespresso",
+      "question": "How does Nespresso work with local communities and farmers to ensure both environmental and social responsibility?"
+    },
+    {
+      "id": "thailand-48",
+      "country": "Thailand",
+      "industry": "Consumer Goods/FMCG",
+      "category": "Sustainability/ESG",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Nespresso",
+      "question": "How do you balance luxury brand positioning with socially and environmentally responsible practices?"
+    },
+    {
+      "id": "thailand-49",
+      "country": "Thailand",
+      "industry": "Consumer Goods/FMCG",
+      "category": "Sustainability/ESG",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Nespresso",
+      "question": "Recycling rates in Thailand remain a challenge. How confident is Nespresso that its capsule recycling program can make a real difference here?"
+    },
+    {
+      "id": "thailand-50",
+      "country": "Thailand",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "DKSH",
+      "question": "What is DKSH’s business? How many business units do you have?"
+    },
+    {
+      "id": "thailand-51",
+      "country": "Thailand",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "DKSH",
+      "question": "Could you elaborate on DKSH Thailand’s growth trajectory over recent years and any key achievements?"
+    },
+    {
+      "id": "thailand-52",
+      "country": "Thailand",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "DKSH",
+      "question": "How does DKSH Thailand’s role fit into DKSH’s global strategy, and what differentiates the Thai market in terms of opportunities and challenges?"
+    },
+    {
+      "id": "thailand-53",
+      "country": "Thailand",
+      "industry": "Enterprise Tech",
+      "category": "Financial Performance",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "DKSH",
+      "question": "How much did sales and revenues in Thailand reach in 2024?"
+    },
+    {
+      "id": "thailand-54",
+      "country": "Thailand",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "DKSH",
+      "question": "What is your outlook for 2025?"
+    },
+    {
+      "id": "thailand-55",
+      "country": "Thailand",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "DKSH",
+      "question": "With the FMCG sector constantly changing, how does DKSH differentiate itself and adapt to shifting consumer trends?"
+    },
+    {
+      "id": "thailand-56",
+      "country": "Thailand",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "DKSH",
+      "question": "Sustainability has become a growing priority for businesses worldwide. How is DKSH integrating sustainable practices across its operations, and can you share some recent initiatives that highlight this commitment?"
+    },
+    {
+      "id": "thailand-57",
+      "country": "Thailand",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "DKSH",
+      "question": "As a company with a long-standing presence in Thailand, how does DKSH view the current economic landscape, and what opportunities do you see for growth in key sectors? – to integrate answer with Thailand economic information"
+    },
+    {
+      "id": "thailand-58",
+      "country": "Thailand",
+      "industry": "Hospitality & Tourism",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Booking.com",
+      "question": "How do you deal with situations when other customers and travelers don’t want you to welcome LGBTQ+ people on the comments, websites, or at the reception?"
+    },
+    {
+      "id": "thailand-59",
+      "country": "Thailand",
+      "industry": "Hospitality & Tourism",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Booking.com",
+      "question": "Can you share the experience for other businesses that they want to focus on LGBTQ+ group, how do you start this initiative if people in management level in your company disagree with this project?"
+    },
+    {
+      "id": "thailand-60",
+      "country": "Thailand",
+      "industry": "Hospitality & Tourism",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Booking.com",
+      "question": "How do you train your staff in Accor group for the Travel Proud?"
+    },
+    {
+      "id": "thailand-61",
+      "country": "Thailand",
+      "industry": "Hospitality & Tourism",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Booking.com",
+      "question": "What is the different of staying in properties with Proud certified and without?"
+    },
+    {
+      "id": "thailand-62",
+      "country": "Thailand",
+      "industry": "Hospitality & Tourism",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Booking.com",
+      "question": "Is it true that Thailand is considered as a paradise for every LGBTQ+ community?"
+    },
+    {
+      "id": "thailand-63",
+      "country": "Thailand",
+      "industry": "FinTech",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership",
+      "tone": "",
+      "client": "SBRF (for Bangkok Bank)",
+      "question": "How did you begin your journey as a leader in the financial industry, and what was the turning point that made you recognize ASEAN’s potential?"
+    },
+    {
+      "id": "thailand-64",
+      "country": "Thailand",
+      "industry": "FinTech",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership",
+      "tone": "",
+      "client": "SBRF (for Bangkok Bank)",
+      "question": "In a world where technology is evolving rapidly, what principles guide your investment decisions in innovation, and what advice would you give to young entrepreneurs adapting to this era?"
+    },
+    {
+      "id": "thailand-65",
+      "country": "Thailand",
+      "industry": "FinTech",
+      "category": "Partnerships",
+      "scenario": "Thought Leadership",
+      "tone": "",
+      "client": "SBRF (for Bangkok Bank)",
+      "question": "Being a platinum partner of the Singapore Regional Business Forum reflects strong cross-border collaboration. In your view, what qualities must a successful leader possess to build international partnerships?"
+    },
+    {
+      "id": "thailand-66",
+      "country": "Thailand",
+      "industry": "FinTech",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership",
+      "tone": "",
+      "client": "SBRF (for Bangkok Bank)",
+      "question": "When it comes to digital transformation and sustainability, how do you see the role of business leaders in driving positive change for society?"
+    },
+    {
+      "id": "thailand-67",
+      "country": "Thailand",
+      "industry": "Consumer Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Coursera",
+      "question": "Can you provide an overview of Coursera's mission and vision, and how the company has evolved since its inception?"
+    },
+    {
+      "id": "thailand-68",
+      "country": "Thailand",
+      "industry": "Consumer Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Coursera",
+      "question": "Online education has seen significant growth in recent years, how has Coursera contributed to this transformation, and what sets your platform apart from other online learning providers?"
+    },
+    {
+      "id": "thailand-69",
+      "country": "Thailand",
+      "industry": "Consumer Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Coursera",
+      "question": "Other than providing localized content, what’s Coursera next strategy to meet the needs of Thailand learners and further expand its impact in Thailand?"
+    },
+    {
+      "id": "thailand-70",
+      "country": "Thailand",
+      "industry": "Consumer Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Coursera",
+      "question": "How has the response been from Coursera’s B2B customers in Thailand? What specific digital skills are these institutions seeking to equip their employees/students with?"
+    },
+    {
+      "id": "thailand-71",
+      "country": "Thailand",
+      "industry": "Consumer Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Coursera",
+      "question": "In the age of AI, how will the AI disruption affect the future of learning?"
+    },
+    {
+      "id": "thailand-72",
+      "country": "Thailand",
+      "industry": "Consumer Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Coursera",
+      "question": "How does Coursera utilize AI and technology to tailor learning experiences for individuals with varying learning preferences?"
+    },
+    {
+      "id": "thailand-73",
+      "country": "Thailand",
+      "industry": "Consumer Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Coursera",
+      "question": "From your perspective, how far AI will have the capabilities to improve a country's education system, particularly in the context of Thailand?"
+    },
+    {
+      "id": "thailand-74",
+      "country": "Thailand",
+      "industry": "Consumer Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Coursera",
+      "question": "Are there any differences between the effect of AI disruption in developing countries and well-develop countries?"
+    },
+    {
+      "id": "thailand-75",
+      "country": "Thailand",
+      "industry": "Energy",
+      "category": "Technology and Innovation",
+      "scenario": "Media Group interview",
+      "tone": "",
+      "client": "Black & Veatch",
+      "question": "Black & Veatch operates across many sectors. What is your core area of expertise?"
+    },
+    {
+      "id": "thailand-76",
+      "country": "Thailand",
+      "industry": "Energy",
+      "category": "Technology and Innovation",
+      "scenario": "Media Group interview",
+      "tone": "",
+      "client": "Black & Veatch",
+      "question": "What is the market outlook this year for engineering and EPC services in Thailand and Southeast Asia?"
+    },
+    {
+      "id": "thailand-77",
+      "country": "Thailand",
+      "industry": "Energy",
+      "category": "Technology and Innovation",
+      "scenario": "Media Group interview",
+      "tone": "",
+      "client": "Black & Veatch",
+      "question": "Can you share details about your current and upcoming projects in Thailand this year?"
+    },
+    {
+      "id": "thailand-78",
+      "country": "Thailand",
+      "industry": "Energy",
+      "category": "Technology and Innovation",
+      "scenario": "Media Group interview",
+      "tone": "",
+      "client": "Black & Veatch",
+      "question": "Many major technology companies are launching data centers in Thailand. Is Black & Veatch working with global players such as AWS, Microsoft, or other hyperscalers?"
+    },
+    {
+      "id": "thailand-79",
+      "country": "Thailand",
+      "industry": "Energy",
+      "category": "Technology and Innovation",
+      "scenario": "Media Group interview",
+      "tone": "",
+      "client": "Black & Veatch",
+      "question": "With the rapid growth of AI and data centers, demand for 24/7 power is increasing. How can Thailand meet this demand while continuing to pursue its sustainability goals?"
+    },
+    {
+      "id": "thailand-80",
+      "country": "Thailand",
+      "industry": "Energy",
+      "category": "Technology and Innovation",
+      "scenario": "Media Group interview",
+      "tone": "",
+      "client": "Black & Veatch",
+      "question": "What makes Thailand’s energy challenges different from other Asian countries? Given the current power overcapacity and the rapid growth of data centers, what is your outlook for the near future?"
+    },
+    {
+      "id": "thailand-81",
+      "country": "Thailand",
+      "industry": "Energy",
+      "category": "Technology and Innovation",
+      "scenario": "Media Group interview",
+      "tone": "",
+      "client": "Black & Veatch",
+      "question": "With ongoing trade tensions, tariffs, and geopolitical challenges worldwide, do you see any major risks for your business? Do you need to adjust your business model to manage these challenges?"
+    },
+    {
+      "id": "thailand-82",
+      "country": "Thailand",
+      "industry": "Energy",
+      "category": "Technology and Innovation",
+      "scenario": "Media Group interview",
+      "tone": "",
+      "client": "Black & Veatch",
+      "question": "As a company that originated in the United States, have recent changes in U.S. energy policies, including positions on climate agreements, had any impact on Black & Veatch’s sustainability strategy?"
+    },
+    {
+      "id": "thailand-83",
+      "country": "Thailand",
+      "industry": "Energy",
+      "category": "Technology and Innovation",
+      "scenario": "Media Group interview",
+      "tone": "",
+      "client": "Black & Veatch",
+      "question": "What kind of support would you like to see from the Thai government to further develop the energy and infrastructure sector?"
+    },
+    {
+      "id": "thailand-84",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Sustainability/ESG",
+      "scenario": "Press Conference - ESG Forum",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "What are Delta’s plans or goals in supporting carbon neutrality?"
+    },
+    {
+      "id": "thailand-85",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Sustainability/ESG",
+      "scenario": "Press Conference - ESG Forum",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "What ESG initiatives or projects has Delta implemented so far that have made a real impact?"
+    },
+    {
+      "id": "thailand-86",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Sustainability/ESG",
+      "scenario": "Press Conference - ESG Forum",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "How does Delta view small modular nuclear reactors (SMRs) as a form of clean energy technology?"
+    },
+    {
+      "id": "thailand-87",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Sustainability/ESG",
+      "scenario": "Press Conference - ESG Forum",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "Is the company concerned about the ongoing Thailand–U.S. tariff negotiations, and to what extent could they impact Delta?"
+    },
+    {
+      "id": "thailand-88",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Sustainability/ESG",
+      "scenario": "Press Conference - ESG Forum",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "How does Delta plan for business expansion over the next 5 and 10 years?"
+    },
+    {
+      "id": "thailand-89",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Sustainability/ESG",
+      "scenario": "Press Conference - ESG Forum",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "How is Delta Electronics Thailand’s financial performance affected by currency fluctuations and exports?"
+    },
+    {
+      "id": "thailand-90",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Media Group interview - ASEAN Sustainable Energy Week",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "Does Delta plan to compete for a significant share of the 120,000 EV charger target by 2030?"
+    },
+    {
+      "id": "thailand-91",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Media Group interview - ASEAN Sustainable Energy Week",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "What market share does Delta aim to achieve by 2030?"
+    },
+    {
+      "id": "thailand-92",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Media Group interview - ASEAN Sustainable Energy Week",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "Does Delta believe the state of the economy influences people’s decision to switch to EVs?"
+    },
+    {
+      "id": "thailand-93",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Media Group interview - ASEAN Sustainable Energy Week",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "There have been frequent news reports about EV explosions during home charging — what safety mechanisms are built into Delta’s chargers?"
+    },
+    {
+      "id": "thailand-94",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Media Group interview - ASEAN Sustainable Energy Week",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "Do solar panels and energy storage systems still carry a high price tag, making them inaccessible for general consumers?"
+    },
+    {
+      "id": "thailand-95",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Media Group interview - ASEAN Sustainable Energy Week",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "Who are Delta’s current EV charger partners?"
+    },
+    {
+      "id": "thailand-96",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Press Conference - Delta Summit",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "From the earlier remark that Delta’s business grew by 30% last year, could you share what that growth translates to in terms of total revenue?"
+    },
+    {
+      "id": "thailand-97",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Sustainability/ESG",
+      "scenario": "Press Conference - Delta Summit",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "What are Delta’s key investment plans moving forward, and how does the company aim to enhance Thailand’s manufacturing competitiveness?"
+    },
+    {
+      "id": "thailand-98",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Technology and Innovation",
+      "scenario": "Press Conference - Delta Summit",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "Will the upcoming regional R&D center primarily focus on Thailand’s operations, or will they serve as an oversight hub for Southeast Asia?"
+    },
+    {
+      "id": "thailand-99",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Technology and Innovation",
+      "scenario": "Press Conference - Delta Summit",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "Could Delta share the scale of capital investment allocated for this new R&D center?"
+    },
+    {
+      "id": "thailand-100",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Press Conference - Delta Summit",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "Considering the gap in AI advancement between Southeast Asia and markets such as the U.S. and Europe, how does Delta plan to strengthen AI innovation?"
+    },
+    {
+      "id": "thailand-101",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Press Conference - Delta Summit",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "Given Delta Thailand’s strong growth trajectory, how does the company assess risks associated with a potential U.S. AI market bubble?"
+    },
+    {
+      "id": "thailand-102",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Press Conference - Delta Summit",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "Is Delta maintaining its previous guidance of achieving double-digit revenue growth this year?"
+    },
+    {
+      "id": "thailand-103",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "1-1 Interview",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "What is the investment outlook for data centers and EVs in Thailand? Is there a trend of continued investment in these sectors?"
+    },
+    {
+      "id": "thailand-104",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "1-1 Interview",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "What is Delta Thailand’s perspective on free trade? Do you think Thailand can reduce import tariffs to 0% like Indonesia and Vietnam?"
+    },
+    {
+      "id": "thailand-105",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "1-1 Interview",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "What is the growth target for the 2025 plan? What are the key factors driving this growth?"
+    },
+    {
+      "id": "thailand-106",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "1-1 Interview",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "What is the investment budget for this year? What are the key areas of investment?"
+    },
+    {
+      "id": "thailand-107",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "1-1 Interview",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "What is the outlook for the data center and AI industry this year?"
+    },
+    {
+      "id": "thailand-108",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "1-1 Interview",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "What are your plans for preparing to comply with the Global Minimum Tax?"
+    },
+    {
+      "id": "thailand-109",
+      "country": "Thailand",
+      "industry": "Consumer Tech & Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "1-1 Interview",
+      "tone": "",
+      "client": "Delta Electronics",
+      "question": "How do you assess the impact of the Global Minimum Tax on business?"
+    },
+    {
+      "id": "singapore-1",
+      "country": "Singapore",
+      "industry": "Healthcare",
+      "category": "Industry Outlook",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Bain & Company",
+      "question": "Could you elaborate on how global pharma are increasingly expanding into APAC. What does this look like, and where exactly within APAC is favourable to these companies?"
+    },
+    {
+      "id": "singapore-2",
+      "country": "Singapore",
+      "industry": "Healthcare",
+      "category": "Industry Outlook",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Bain & Company",
+      "question": "Similarly, for pharma/biotech focused VCs/incubators, we have heard that they are increasingly moving to Singapore/Asia. Can you comment on this trend and whether you're observing the same?"
+    },
+    {
+      "id": "singapore-3",
+      "country": "Singapore",
+      "industry": "Healthcare",
+      "category": "Industry Outlook",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Bain & Company",
+      "question": "What does it mean for younger ecosystems and start-ups in Singapore that funding is moving towards later-stage of development?"
+    },
+    {
+      "id": "singapore-4",
+      "country": "Singapore",
+      "industry": "Healthcare",
+      "category": "Industry Outlook",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Bain & Company",
+      "question": "You cited a few programmes around APAC on public sector funding. Could you comment on whether Singapore's government is doing enough to support biopharma/biotech start-ups? Through EDBI, SGInnovate, etc"
+    },
+    {
+      "id": "singapore-5",
+      "country": "Singapore",
+      "industry": "Healthcare",
+      "category": "Industry Outlook",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Bain & Company",
+      "question": "Are you able to give an overview of how China and Singapore sit strategically in the APAC ecosystem. Is China a threat to Singapore as a hub? Or are they complementary?"
+    },
+    {
+      "id": "singapore-6",
+      "country": "Singapore",
+      "industry": "Healthcare",
+      "category": "Industry Outlook",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Bain & Company",
+      "question": "What are your thoughts on where Singapore's ecosystem should be headed? Should the aim be to build a global champion, like the likes of Novo is for Denmark? Or is Singapore's niche elsewhere?"
+    },
+    {
+      "id": "singapore-7",
+      "country": "Singapore",
+      "industry": "Healthcare",
+      "category": "Industry Outlook",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Bain & Company",
+      "question": "Global investors are reassessing their biotech portfolios amid US research funding cuts and geopolitical tensions, prompting a shift toward Asia-Pacific markets. Why are APAC markets, particularly Singapore and South Korea, becoming increasingly attractive for global biotech investors?"
+    },
+    {
+      "id": "singapore-8",
+      "country": "Singapore",
+      "industry": "Healthcare",
+      "category": "Industry Outlook",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Bain & Company",
+      "question": "While China remains dominant in venture capital flows, emerging hubs are gaining attention for their political neutrality and strong IP protection. How are investors balancing the dominance of China with the rising appeal of smaller, politically neutral biotech hubs?"
+    },
+    {
+      "id": "singapore-9",
+      "country": "Singapore",
+      "industry": "Healthcare",
+      "category": "Industry Outlook",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Bain & Company",
+      "question": "Early-stage funding in APAC has declined while late-stage deal volumes have grown, reflecting investor risk aversion. How does this shift in funding patterns influence investor strategies in the region?"
+    },
+    {
+      "id": "singapore-10",
+      "country": "Singapore",
+      "industry": "Healthcare",
+      "category": "Industry Outlook",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Bain & Company",
+      "question": "Governments in APAC are actively bridging funding gaps for early-stage biotech R&D through programs like South Korea’s KDDF and Japan’s Bioventure Support Program. How do these public sector initiatives enhance investor confidence and attract private capital?"
+    },
+    {
+      "id": "singapore-11",
+      "country": "Singapore",
+      "industry": "Healthcare",
+      "category": "Risk/Crisis",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Bain & Company",
+      "question": "Geopolitical tensions and policy uncertainties are reshaping the global biotech landscape. How are investors mitigating risks and applying strategies such as geographic diversification and IP-splitting in APAC?"
+    },
+    {
+      "id": "singapore-12",
+      "country": "Singapore",
+      "industry": "Healthcare",
+      "category": "Regulatory Compliance",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Bain & Company",
+      "question": "Emerging biotech hubs outside China offer growth potential but also carry unique regulatory and market risks. What are the key risks investors should consider when venturing into these markets?"
+    },
+    {
+      "id": "singapore-13",
+      "country": "Singapore",
+      "industry": "Healthcare",
+      "category": "Partnerships and M&A",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Bain & Company",
+      "question": "Singapore has developed a world-class biotech ecosystem with strong government support, deep talent pipelines, and strategic partnerships with global players. How do programs like Startup SG Equity and collaborations with firms like Flagship Pioneering position Singapore as a launchpad for biotech innovation?"
+    },
+    {
+      "id": "singapore-14",
+      "country": "Singapore",
+      "industry": "Healthcare",
+      "category": "Industry Outlook",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Bain & Company",
+      "question": "Investors value stable, innovation-ready markets where early-stage discoveries can become commercially viable. In what ways does Singapore’s regulatory and innovation environment provide resilience against global biotech market shocks?"
+    },
+    {
+      "id": "singapore-15",
+      "country": "Singapore",
+      "industry": "Healthcare",
+      "category": "Industry Outlook",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Bain & Company",
+      "question": "Access to top scientific talent is a critical driver for innovation and investor interest in APAC biotech hubs. How are talent programs like Singapore’s Tech.Pass and South Korea’s Top-Tier Talent Visa shaping the region’s biotech capabilities?"
+    },
+    {
+      "id": "singapore-16",
+      "country": "Singapore",
+      "industry": "Healthcare",
+      "category": "Regulatory Compliance",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Bain & Company",
+      "question": "Regulatory agility and policy environments that protect IP are increasingly factored into investment decisions. How do these factors influence investor confidence and the speed of innovation in APAC biotech markets?"
+    },
+    {
+      "id": "singapore-17",
+      "country": "Singapore",
+      "industry": "Healthcare",
+      "category": "Technology & Innovation",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Bain & Company",
+      "question": "APAC is emerging as a frontier for next-generation biotech, including AI-driven drug discovery, gene therapies, and antibody-drug conjugates. What types of biotech innovations are likely to drive the next wave of investment in the region?"
+    },
+    {
+      "id": "singapore-18",
+      "country": "Singapore",
+      "industry": "Healthcare",
+      "category": "Industry Outlook",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Bain & Company",
+      "question": "With public and private sectors actively supporting biotech growth, APAC is poised to play a larger role in global healthcare innovation. For investors entering APAC biotech now, what strategic considerations should guide their portfolio decisions?"
+    },
+    {
+      "id": "singapore-19",
+      "country": "Singapore",
+      "industry": "Government/Public Sector",
+      "category": "Regulatory Compliance",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Singapore Business Federation",
+      "question": "Whether ASEAN trade and economic ties can be strengthened in a mutually beneficial manner?"
+    },
+    {
+      "id": "singapore-20",
+      "country": "Singapore",
+      "industry": "Government/Public Sector",
+      "category": "Regulatory Compliance",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Singapore Business Federation",
+      "question": "To mitigate harm from US-China trade tensions, can ASEAN countries band together like the EU where 60 per cent of trade transactions happen within the single market?"
+    },
+    {
+      "id": "singapore-21",
+      "country": "Singapore",
+      "industry": "Government/Public Sector",
+      "category": "Economic Outlook",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Singapore Business Federation",
+      "question": "We are far from creating a single market, but can we get close enough?"
+    },
+    {
+      "id": "singapore-22",
+      "country": "Singapore",
+      "industry": "Government/Public Sector",
+      "category": "Regulatory Compliance",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Singapore Business Federation",
+      "question": "What are ASEAN countries not doing enough of?"
+    },
+    {
+      "id": "singapore-23",
+      "country": "Singapore",
+      "industry": "Government/Public Sector",
+      "category": "Economic Outlook",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Singapore Business Federation",
+      "question": "How have you seen business relations between Thailand and Singapore evolve over the last 5 years? What is different today that might have been unthinkable in previous years?"
+    },
+    {
+      "id": "singapore-24",
+      "country": "Singapore",
+      "industry": "Government/Public Sector",
+      "category": "Economic Outlook",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Singapore Business Federation",
+      "question": "What kind of unique opportunities does investing/expanding into Thailand present to Singapore businesses? What structural challenges do they need to be mindful of when expanding?"
+    },
+    {
+      "id": "singapore-25",
+      "country": "Singapore",
+      "industry": "Government/Public Sector",
+      "category": "Industry Outlook",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Singapore Business Federation",
+      "question": "Which sectors are currently attracting the strongest Singapore investment interest in Thailand, and how does this compare with broader regional trends across South-east Asia?"
+    },
+    {
+      "id": "singapore-26",
+      "country": "Singapore",
+      "industry": "Government/Public Sector",
+      "category": "Economic Outlook",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Singapore Business Federation",
+      "question": "How has cross-border collaboration in South-east Asia changed in uncertain macro environments and supply chain realignments?"
+    },
+    {
+      "id": "singapore-27",
+      "country": "Singapore",
+      "industry": "Government/Public Sector",
+      "category": "Industry Outlook",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Singapore Business Federation",
+      "question": "Have businesses in Singapore started to look towards different markets or opportunities such as Thailand?"
+    },
+    {
+      "id": "singapore-28",
+      "country": "Singapore",
+      "industry": "Government/Public Sector",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Singapore Business Federation",
+      "question": "How do you see Singapore Regional Business Forum's  role in facilitating partnerships between Singapore and Thailand, beyond what we can currently observe in traditional trade and investment relations?"
+    },
+    {
+      "id": "singapore-29",
+      "country": "Singapore",
+      "industry": "Government/Public Sector",
+      "category": "Partnerships and M&A",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Singapore Business Federation",
+      "question": "This year marks the 60th anniversary of Thailand–Singapore diplomatic relations. In your view, what are the most significant milestones in our economic partnership, and how do you envision it evolving in the next decade?"
+    },
+    {
+      "id": "singapore-30",
+      "country": "Singapore",
+      "industry": "Government/Public Sector",
+      "category": "Industry Outlook",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Singapore Business Federation",
+      "question": "Which sectors or industries in Thailand are seen as most promising for cross-border partnerships with Singapore, and how does Singapore Business Federation plan to facilitate these connections?"
+    },
+    {
+      "id": "singapore-31",
+      "country": "Singapore",
+      "industry": "Government/Public Sector",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Singapore Business Federation",
+      "question": "How does Singapore Business Federation measure the long-term impact of initiatives and connections made at forums like Singapore Regional Business Forum?"
+    },
+    {
+      "id": "singapore-32",
+      "country": "Singapore",
+      "industry": "Government/Public Sector",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Singapore Business Federation",
+      "question": "How is Singapore Business Federation supporting businesses, especially SMEs in Thailand and Singapore to adapt to future challenges such as sustainability regulations, digital trade, and AI adoption?"
+    },
+    {
+      "id": "singapore-33",
+      "country": "Singapore",
+      "industry": "Government/Public Sector",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Singapore Business Federation",
+      "question": "What makes Thailand the ideal host for this year’s Singapore Regional Business Forum, and what message does SBF hope to send by holding the forum here for the first time?"
+    },
+    {
+      "id": "singapore-34",
+      "country": "Singapore",
+      "industry": "Government/Public Sector",
+      "category": "Partnerships and M&A",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Singapore Business Federation",
+      "question": "Could you highlight some success stories from previous Singapore Regional Business Forum editions that demonstrate the tangible value of regional collaboration?"
+    },
+    {
+      "id": "singapore-35",
+      "country": "Singapore",
+      "industry": "Government/Public Sector",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Singapore Business Federation",
+      "question": "Can you share more about the agenda and key themes of Singapore Regional Business Forum 2025?"
+    },
+    {
+      "id": "singapore-36",
+      "country": "Singapore",
+      "industry": "Consumer Goods/FMCG",
+      "category": "Corporate Strategy",
+      "scenario": "",
+      "tone": "",
+      "client": "Singapore Business Federation",
+      "question": "Will the expansion bring new brands to Singapore? If not, which existing brands would be included in the Singapore expansion?"
+    },
+    {
+      "id": "singapore-37",
+      "country": "Singapore",
+      "industry": "Consumer Goods/FMCG",
+      "category": "Corporate Strategy",
+      "scenario": "",
+      "tone": "",
+      "client": "Singapore Business Federation",
+      "question": "What prompted Royal Canin to pick Singapore for this massive expansion?"
+    },
+    {
+      "id": "singapore-38",
+      "country": "Singapore",
+      "industry": "Consumer Goods/FMCG",
+      "category": "Corporate Strategy",
+      "scenario": "",
+      "tone": "",
+      "client": "Royal Canin",
+      "question": "Do you have reports or datasets on the Singapore market performance of Royal Canin?"
+    },
+    {
+      "id": "singapore-39",
+      "country": "Singapore",
+      "industry": "Consumer Goods/FMCG",
+      "category": "Partnerships and M&A",
+      "scenario": "",
+      "tone": "",
+      "client": "Royal Canin",
+      "question": "Which local companies are you eyeing to partner for this expansion?"
+    },
+    {
+      "id": "singapore-40",
+      "country": "Singapore",
+      "industry": "Consumer Goods/FMCG",
+      "category": "Corporate Strategy",
+      "scenario": "",
+      "tone": "",
+      "client": "Royal Canin",
+      "question": "What facilities are planned for this expansion, and can you share more details about it?"
+    },
+    {
+      "id": "vietnam-1",
+      "country": "Vietnam",
+      "industry": "EV",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Yadea",
+      "question": "Vietnam is setting ambitious goals to transition from gasoline to electric vehicles, particularly in the two-wheeler segment. How do you assess the potential of the electric vehicle market in Vietnam under this context?"
+    },
+    {
+      "id": "vietnam-2",
+      "country": "Vietnam",
+      "industry": "EV",
+      "category": "Regulatory compliance",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Yadea",
+      "question": "China is often cited as a successful example in the transition from fuel-powered to electric vehicles. In your view, what key factors have enabled China to achieve such strong results in EV adoption? From China’s experience, how do you evaluate Vietnam’s current EV transition goals, and what government measures do you think are needed to ensure effectiveness?"
+    },
+    {
+      "id": "vietnam-3",
+      "country": "Vietnam",
+      "industry": "EV",
+      "category": "Sustainability/ESG",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Yadea",
+      "question": "Alongside the shift to electric vehicles come challenges related to charging infrastructure and battery waste management. What recommendations or suggestions would you offer to the Vietnamese government to address these two issues?"
+    },
+    {
+      "id": "vietnam-4",
+      "country": "Vietnam",
+      "industry": "EV",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Yadea",
+      "question": "Vietnam’s electric two-wheeler market today is highly competitive, with not only the brand but also several domestic and Chinese players. How do you view local manufacturers, as well as other Chinese EV companies operating in Vietnam? What do you see as the brand's competitive advantage in this landscape?"
+    },
+    {
+      "id": "vietnam-5",
+      "country": "Vietnam",
+      "industry": "EV",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Yadea",
+      "question": "Could you share more about the brand's investment and business plans in Vietnam in the coming years?"
+    },
+    {
+      "id": "vietnam-6",
+      "country": "Vietnam",
+      "industry": "Hospitality & Tourism",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "The Grand Ho Tram",
+      "question": "Could you please elaborate on the key elements and objectives of the brand's repositioning strategy, and how you envision it enhancing the overall experience for your guests?"
+    },
+    {
+      "id": "vietnam-7",
+      "country": "Vietnam",
+      "industry": "Hospitality & Tourism",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "The Grand Ho Tram",
+      "question": "How do you anticipate the market's response to the new brand positioning, and what contributions do you expect in terms of attracting tourists and fostering the overall tourism development with this fresh direction?"
+    },
+    {
+      "id": "vietnam-8",
+      "country": "Vietnam",
+      "industry": "Hospitality & Tourism",
+      "category": "Product Launch",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "The Grand Ho Tram",
+      "question": "What inspired the new logo, and why did you choose this moment to rebrand?"
+    },
+    {
+      "id": "vietnam-9",
+      "country": "Vietnam",
+      "industry": "Hospitality & Tourism",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "The Grand Ho Tram",
+      "question": "With wellness tourism growing rapidly, how do you assess both the opportunities and challenges in this trend?"
+    },
+    {
+      "id": "vietnam-10",
+      "country": "Vietnam",
+      "industry": "Hospitality & Tourism",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "The Grand Ho Tram",
+      "question": "What differences do you see between international and domestic guests in terms of their expectations for a wellness experience?"
+    },
+    {
+      "id": "vietnam-11",
+      "country": "Vietnam",
+      "industry": "Hospitality & Tourism",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "The Grand Ho Tram",
+      "question": "Ho Tram has welcomed many new tourism products and resorts in recent years, yet it has not attracted as many visitors as Vung Tau. In your opinion, what additional factors are needed for Ho Tram to attract more visitors, particularly from the domestic market?"
+    },
+    {
+      "id": "vietnam-12",
+      "country": "Vietnam",
+      "industry": "Hospitality & Tourism",
+      "category": "Partnerships and M&A",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "The Grand Ho Tram",
+      "question": "How does the brand view the meaning of partnering with an international fashion and beauty brands?"
+    },
+    {
+      "id": "vietnam-13",
+      "country": "Vietnam",
+      "industry": "Hospitality & Tourism",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "The Grand Ho Tram",
+      "question": "Why was this fragrance line chosen as the inspiration for the “Wellness Escape” package?"
+    },
+    {
+      "id": "vietnam-14",
+      "country": "Vietnam",
+      "industry": "Hospitality & Tourism",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "The Grand Ho Tram",
+      "question": "How does your brand strike a balance between leisure and gaming guests in the guest experience since the expectations of each group are often quite different?"
+    },
+    {
+      "id": "vietnam-15",
+      "country": "Vietnam",
+      "industry": "Hospitality & Tourism",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "The Grand Ho Tram",
+      "question": "What values or principles do you hope will define the brand in the minds of guests five years from now."
+    },
+    {
+      "id": "vietnam-16",
+      "country": "Vietnam",
+      "industry": "Energy",
+      "category": "Sustainability/ESG",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Signify",
+      "question": "What is the brand's vision for smart and sustainable living? How do you see Vietnam’s role in the global shift toward sustainable industrial growth?"
+    },
+    {
+      "id": "vietnam-17",
+      "country": "Vietnam",
+      "industry": "Energy",
+      "category": "Sustainability/ESG",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Signify",
+      "question": "How does the brand contribute to the nation's energy efficiency goals under VNEEP 3 and its Net Zero commitment?"
+    },
+    {
+      "id": "vietnam-18",
+      "country": "Vietnam",
+      "industry": "Energy",
+      "category": "Sustainability/ESG",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Signify",
+      "question": "What makes the brand's approach to sustainability unique in Vietnam?"
+    },
+    {
+      "id": "vietnam-19",
+      "country": "Vietnam",
+      "industry": "Energy",
+      "category": "Sustainability/ESG",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Signify",
+      "question": "Any global example from the brand can be a good reference for VN to drive its sustainability agenda (can also extend to industry focus)?"
+    },
+    {
+      "id": "vietnam-20",
+      "country": "Vietnam",
+      "industry": "Energy",
+      "category": "Partnerships and M&A",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Signify",
+      "question": "How do you view the importance of strategic collaboration in the SEA market, particularly in Vietnam? Can you share some examples?"
+    },
+    {
+      "id": "vietnam-21",
+      "country": "Vietnam",
+      "industry": "Automotive",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Bridgestone",
+      "question": "In your opinion, what defines a truly premium driving experience, especially in the context of increasingly diverse road conditions and vehicles in Vietnam?"
+    },
+    {
+      "id": "vietnam-22",
+      "country": "Vietnam",
+      "industry": "Automotive",
+      "category": "Sustainability/ESG",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Bridgestone",
+      "question": "Could you share more about your commitment to sustainability and the contributions of this new tire line?"
+    },
+    {
+      "id": "vietnam-23",
+      "country": "Vietnam",
+      "industry": "Automotive",
+      "category": "Technology and Innovation",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Bridgestone",
+      "question": "What benefits does the application of this technology in the new tire offer?"
+    },
+    {
+      "id": "vietnam-24",
+      "country": "Vietnam",
+      "industry": "Hospitality & Tourism",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Amanoi",
+      "question": "According to you, what factors will determine the success of the ultra-luxury hospitality segment in Vietnam in the next few years?"
+    },
+    {
+      "id": "vietnam-25",
+      "country": "Vietnam",
+      "industry": "Hospitality & Tourism",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Amanoi",
+      "question": "How are spending trends among super-rich customers in Vietnam and the region changing?"
+    },
+    {
+      "id": "vietnam-26",
+      "country": "Vietnam",
+      "industry": "Hospitality & Tourism",
+      "category": "Product Launch",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Amanoi",
+      "question": "What factors led to the launch of ultra-luxury products at your brand?"
+    },
+    {
+      "id": "vietnam-27",
+      "country": "Vietnam",
+      "industry": "Hospitality & Tourism",
+      "category": "Sustainability/ESG",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Amanoi",
+      "question": "How does the brand maintain a balance between preserving the natural environment and providing luxury amenities for guests?"
+    },
+    {
+      "id": "vietnam-28",
+      "country": "Vietnam",
+      "industry": "Hospitality & Tourism",
+      "category": "Sustainability/ESG",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Amanoi",
+      "question": "What steps does the brand take to ensure that local communities benefit from the resort's presence and tourism activities?"
+    },
+    {
+      "id": "vietnam-29",
+      "country": "Vietnam",
+      "industry": "FinTech",
+      "category": "Financial Performance",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Sun Life Vietnam",
+      "question": "This type of insurance plays an important role in the brand's business model. Given the difficulties the sector has faced in recent years, how do you plan to rebuild and accelerate growth in this area?"
+    },
+    {
+      "id": "vietnam-30",
+      "country": "Vietnam",
+      "industry": "FinTech",
+      "category": "Technology and Innovation",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Sun Life Vietnam",
+      "question": "What role will digital platforms play in expanding access to insurance for more Vietnamese? How is the brand leveraging technology to enhance client engagement and service delivery?"
+    },
+    {
+      "id": "indonesia-1",
+      "country": "Indonesia",
+      "industry": "EdTech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Coursera",
+      "question": "Many edtech platforms also offer skills-based learning programs. In your view, what sets Skill Tracks apart from similar solutions already available in the market?"
+    },
+    {
+      "id": "indonesia-2",
+      "country": "Indonesia",
+      "industry": "EdTech",
+      "category": "Corporate Strategy",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Coursera",
+      "question": "How does your brand measure the success of implementing Skill Tracks, both from the perspective of employees as individuals and organizations as a whole?"
+    },
+    {
+      "id": "indonesia-3",
+      "country": "Indonesia",
+      "industry": "EdTech",
+      "category": "Corporate Strategy",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Coursera",
+      "question": "To what extent does your brand face adoption challenges for Skill Tracks within companies, especially considering that some corporate cultures still perceive training as a cost rather than a long-term investment?"
+    },
+    {
+      "id": "indonesia-4",
+      "country": "Indonesia",
+      "industry": "EdTech",
+      "category": "Technology and Innovation",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Coursera",
+      "question": "With the rapid advancement of AI technology, how does your brand ensure that the curriculum within Skill Tracks remains relevant, up-to-date, and aligned with industry needs?"
+    },
+    {
+      "id": "indonesia-5",
+      "country": "Indonesia",
+      "industry": "EdTech",
+      "category": "HR & Workforce",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Coursera",
+      "question": "In Indonesia, the skills gap phenomenon remains a significant challenge for employers. How does your brand view this issue specifically, and what strategies are being prepared to address the demands of the Indonesian market?"
+    },
+    {
+      "id": "indonesia-6",
+      "country": "Indonesia",
+      "industry": "EdTech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Coursera",
+      "question": "This year, as the EdTech industry faces challenges both in terms of new funding and the return of in-person learning, how does your brand view this situation?"
+    },
+    {
+      "id": "indonesia-7",
+      "country": "Indonesia",
+      "industry": "EdTech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Coursera",
+      "question": "Based on your data, what does user interest in self-directed learning among Indonesian digital users look like?"
+    },
+    {
+      "id": "indonesia-8",
+      "country": "Indonesia",
+      "industry": "EdTech",
+      "category": "Financial Performance",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Coursera",
+      "question": "How has the brand's return on investment (ROI) been so far?"
+    },
+    {
+      "id": "indonesia-9",
+      "country": "Indonesia",
+      "industry": "EdTech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Coursera",
+      "question": "Who are some of the closest competitors of your brand in Indonesia, and in what ways does your brand stand out from its rivals?"
+    },
+    {
+      "id": "indonesia-10",
+      "country": "Indonesia",
+      "industry": "EdTech",
+      "category": "Corporate Strategy",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Coursera",
+      "question": "Can EdTech platforms like your brand offers help accelerate large-scale learning in Indonesia? How do you view the challenges of internet access and connection speed in the country?"
+    },
+    {
+      "id": "indonesia-11",
+      "country": "Indonesia",
+      "industry": "EdTech",
+      "category": "Technology and Innovation",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Coursera",
+      "question": "How can AI improve accessibility to education in Indonesia?"
+    },
+    {
+      "id": "indonesia-12",
+      "country": "Indonesia",
+      "industry": "EdTech",
+      "category": "Technology and Innovation",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Coursera",
+      "question": "What are the main challenges in integrating AI into learning environments or educational content?"
+    },
+    {
+      "id": "indonesia-13",
+      "country": "Indonesia",
+      "industry": "EdTech",
+      "category": "Technology and Innovation",
+      "scenario": "Interview",
+      "tone": "",
+      "client": "Coursera",
+      "question": "What types of AI-related skills are most in demand in Indonesia’s job market?"
+    },
+    {
+      "id": "indonesia-14",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "Your brand is focusing a lot on the after-work moment as a marketing angle in Indonesia recently. From office tours bringing in football legends and even the UEFA Champions League Trophy to the latest Ahhh-fterwork campaign.  What was the strategy behind taking the brand directly into office spaces, and what impact are you seeing from it? What insights led to this direction?"
+    },
+    {
+      "id": "indonesia-15",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "ndonesia isn’t known as a beer-drinking country in the same way as, say, the Philippines. How does the brand see the size and potential of the beer market here — and how does that shape your marketing playbook?"
+    },
+    {
+      "id": "indonesia-16",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Regulatory Compliance",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "What are some of the bigger challenges of marketing a global beer brand in a country where religion and regulations limit alcohol visibility and consumption? How do you strike that balance?"
+    },
+    {
+      "id": "indonesia-17",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "Beyond Ahhh-fterwork, what are some of the brand's other major marketing initiatives currently running in Indonesia? Are there campaigns focused on music, sports, or other cultural moments?"
+    },
+    {
+      "id": "indonesia-18",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "How does the brand aim to differentiate itself from other beer brands in the Indonesian market — whether local or international? Is it about lifestyle, taste, experience, or something else?"
+    },
+    {
+      "id": "indonesia-19",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "You’ve activated big global properties like the UEFA Champions League in Indonesia. How do you localise such international assets to make them resonate with Indonesian audiences?"
+    },
+    {
+      "id": "indonesia-20",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Financial Performance",
+      "scenario": "Press Conference/Media Briefing",
+      "tone": "",
+      "client": "Heineken",
+      "question": "Can you share any numbers or indicators — whether it’s growth in market share, campaign reach, or engagement — that show how the brand is performing here?"
+    },
+    {
+      "id": "indonesia-21",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Corporate Strategy",
+      "scenario": "Press Conference/Media Briefing",
+      "tone": "",
+      "client": "Heineken",
+      "question": "In-store visibility is key, especially in a regulated market. What’s your retail and distribution strategy like for Indonesia, and how much does the on-premise vs. off-premise channel matter?"
+    },
+    {
+      "id": "indonesia-22",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "Finally, on a personal note — what’s the most rewarding or surprising thing you’ve learned about Indonesian consumers while leading the brand's marketing here?"
+    },
+    {
+      "id": "indonesia-23",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Non-business",
+      "scenario": "Press Conference/Media Briefing",
+      "tone": "",
+      "client": "Heineken",
+      "question": "Welcome to Indonesia. Can you tell us how you are and what activities you will do in Indonesia?"
+    },
+    {
+      "id": "indonesia-24",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Non-business",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "The Champions League is currently entering the last eight. What do you think about the championship competition? Is Bayern Munich still the favorite, even though they lost to Inter Milan in the first leg?"
+    },
+    {
+      "id": "indonesia-25",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Non-business",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "Thomas Muller will leave Bayern at the end of this season after 25 years. As a player who has also been at Bayern for a long time, how do you respond to that? In your opinion, why is it difficult for us in modern football to see players who have played for only one club throughout their career until they retire?"
+    },
+    {
+      "id": "indonesia-26",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Non-business",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "How do you see the competition in the Champions League this season? Who will win?"
+    },
+    {
+      "id": "indonesia-27",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Non-business",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "As a former Manchester United player, what do you think caused their downfall?"
+    },
+    {
+      "id": "indonesia-28",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Non-business",
+      "scenario": "Press Conference/Media Briefing",
+      "tone": "",
+      "client": "Heineken",
+      "question": "How do you see the trophy tour event held by the brand?"
+    },
+    {
+      "id": "indonesia-29",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Non-business",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "How was your debut in Champions League in 2002?"
+    },
+    {
+      "id": "indonesia-30",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Non-business",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "Could you describe the atmosphere of the Champions League? Different from domestic competitions?"
+    },
+    {
+      "id": "indonesia-31",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Non-business",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "How do you see the development of modern football compared to your playing days?"
+    },
+    {
+      "id": "indonesia-32",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Non-business",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "What is the most memorable moment of your professional football career besides winning world cup?"
+    },
+    {
+      "id": "indonesia-33",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Non-business",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "If you could relive one match in your career, which one would it be and why?"
+    },
+    {
+      "id": "indonesia-34",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Non-business",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "How do you see the development of modern football compared to your playing days?"
+    },
+    {
+      "id": "indonesia-35",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Non-business",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "What is the most memorable moment of your professional football career besides winning world cup?"
+    },
+    {
+      "id": "indonesia-36",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Non-business",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "If you could relive one match in your career, which one would it be and why?"
+    },
+    {
+      "id": "indonesia-37",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Non-business",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "How’s your opinion in about champions league new format"
+    },
+    {
+      "id": "indonesia-38",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Non-business",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "Does this format actually drain more of the players' energy?"
+    },
+    {
+      "id": "indonesia-39",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Non-business",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "Can you share your experience play in the this team? Why it is different in terms of tension, pressure, or more excitement? And which match is the toughest one?"
+    },
+    {
+      "id": "indonesia-40",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Non-business",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "In your career, you play more than 500 matches, can you spill 1 or 2 name of the players that you loved to play with?"
+    },
+    {
+      "id": "indonesia-41",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Non-business",
+      "scenario": "Press Conference/Media Briefing",
+      "tone": "",
+      "client": "Heineken",
+      "question": "What is your opinion of the indonesian football fans enthusiasm to see you today?"
+    },
+    {
+      "id": "indonesia-42",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Non-business",
+      "scenario": "Press Conference/Media Briefing",
+      "tone": "",
+      "client": "Heineken",
+      "question": "Were you surprised by the energy of the Indonesian crowd today?"
+    },
+    {
+      "id": "indonesia-43",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Non-business",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "The Champions League continues to grow and this season uses a new format that gives teams more opportunities to compete. How do you see the new format?"
+    },
+    {
+      "id": "indonesia-44",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Non-business",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Heineken",
+      "question": "Many young players in Indonesia idolize you, what advice can you give them to help them reach a higher level?"
+    },
+    {
+      "id": "indonesia-45",
+      "country": "Indonesia",
+      "industry": "Banking & Financial",
+      "category": "Corporate Strategy",
+      "scenario": "Press Conference/Media Briefing",
+      "tone": "",
+      "client": "KBank",
+      "question": "What are the brand's expansion plans in Indonesia for this year, and what strategies have been prepared for the brand for the upcoming year?"
+    },
+    {
+      "id": "indonesia-46",
+      "country": "Indonesia",
+      "industry": "Banking & Financial",
+      "category": "Regulatory Compliance",
+      "scenario": "Regulatory Announcement",
+      "tone": "",
+      "client": "KBank",
+      "question": "What are the brand's views and expectations regarding the incoming new government — particularly in terms of economic climate, political stability, and regulatory policies?"
+    },
+    {
+      "id": "indonesia-47",
+      "country": "Indonesia",
+      "industry": "Banking & Financial",
+      "category": "Financial Performance",
+      "scenario": "Regulatory Announcement",
+      "tone": "",
+      "client": "KBank",
+      "question": "Your brand is one of the companies listed on the Indonesia Stock Exchange (IDX). As the controlling shareholder, how is the brand demonstrating its commitment to public investors — both in terms of increasing the company’s value to boost its share price and ensuring dividend distribution?"
+    },
+    {
+      "id": "indonesia-48",
+      "country": "Indonesia",
+      "industry": "Banking & Financial",
+      "category": "Regulatory Compliance",
+      "scenario": "Regulatory Announcement",
+      "tone": "",
+      "client": "KBank",
+      "question": "Under IDX regulations, the minimum public free-float requirement is 7.5%. The Exchange has requested the brand, as the controlling shareholder, to release more shares to the public. If KBank chooses not to, is there a possibility that the bank will go private?"
+    },
+    {
+      "id": "indonesia-49",
+      "country": "Indonesia",
+      "industry": "Banking & Financial",
+      "category": "Financial Performance",
+      "scenario": "Press Conference/Media Briefing",
+      "tone": "",
+      "client": "KBank",
+      "question": "The current banking industry condition shows that loan interest rates remain high. How about your brand — has it adjusted its lending rates following the recent cut in the BI benchmark rate?"
+    },
+    {
+      "id": "indonesia-50",
+      "country": "Indonesia",
+      "industry": "Banking & Financial",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "KBank",
+      "question": "Meanwhile, Asian banks from Japan, South Korea, and Thailand are becoming increasingly aggressive in entering the Indonesian market. How does your brand view this trend?"
+    },
+    {
+      "id": "indonesia-51",
+      "country": "Indonesia",
+      "industry": "Banking & Financial",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "KBank",
+      "question": "What does the brand see in Indonesia that makes it an attractive market?"
+    },
+    {
+      "id": "indonesia-52",
+      "country": "Indonesia",
+      "industry": "Banking & Financial",
+      "category": "Technology and Innovation",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "KBank",
+      "question": "Regarding the rise of digital banking, does the brand also plan to move in that direction?"
+    },
+    {
+      "id": "indonesia-53",
+      "country": "Indonesia",
+      "industry": "Banking & Financial",
+      "category": "Partnerships and M&A",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "KBank",
+      "question": "How does the brand view the potential for channeling collaborations (credit distribution partnerships) with fintech or multifinance companies — a strategy many banks are also pursuing?"
+    },
+    {
+      "id": "indonesia-54",
+      "country": "Indonesia",
+      "industry": "Media & Entertainment",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Vero",
+      "question": "How do you see the growth of the influencer marketing industry in Southeast Asia over the next two to five years?"
+    },
+    {
+      "id": "indonesia-55",
+      "country": "Indonesia",
+      "industry": "Media & Entertainment",
+      "category": "Partnerships and M&A",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Vero",
+      "question": "What are the biggest challenges that brands still face in building partnerships with influencers?"
+    },
+    {
+      "id": "indonesia-56",
+      "country": "Indonesia",
+      "industry": "Media & Entertainment",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Vero",
+      "question": "Many brands are said to still “choose the wrong influencers.” In your view, what are the most common mistakes that happen?"
+    },
+    {
+      "id": "indonesia-57",
+      "country": "Indonesia",
+      "industry": "Media & Entertainment",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Vero",
+      "question": "What interesting insights has the brand discovered from clients who have run influencer marketing campaigns?"
+    },
+    {
+      "id": "indonesia-58",
+      "country": "Indonesia",
+      "industry": "Media & Entertainment",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Vero",
+      "question": "Could you explain how the MicroFluent platform works? What makes it different from other platforms?"
+    },
+    {
+      "id": "indonesia-59",
+      "country": "Indonesia",
+      "industry": "Media & Entertainment",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Vero",
+      "question": "Is MicroFluent designed specifically for micro-influencers? How does its curation system work?"
+    },
+    {
+      "id": "indonesia-60",
+      "country": "Indonesia",
+      "industry": "Media & Entertainment",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Vero",
+      "question": "So far, how have brands and influencers responded to MicroFluent?"
+    },
+    {
+      "id": "indonesia-61",
+      "country": "Indonesia",
+      "industry": "Media & Entertainment",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Vero",
+      "question": "Does the platform also provide training or insights to help influencers improve the quality of their content?"
+    },
+    {
+      "id": "indonesia-62",
+      "country": "Indonesia",
+      "industry": "Media & Entertainment",
+      "category": "Financial Performance",
+      "scenario": "Press Conference/Media Briefing",
+      "tone": "",
+      "client": "Vero",
+      "question": "How big is the influencer marketing business potential in Southeast Asia, particularly in Indonesia, according to you?"
+    },
+    {
+      "id": "indonesia-63",
+      "country": "Indonesia",
+      "industry": "Media & Entertainment",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Vero",
+      "question": "What role does an agency like yours play in creating more sustainable collaborations between brands and creators?"
+    },
+    {
+      "id": "indonesia-64",
+      "country": "Indonesia",
+      "industry": "Media & Entertainment",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Vero",
+      "question": "To start, what do you think the agency brings to Indonesian brands that they might not get from local agencies or global networks?"
+    },
+    {
+      "id": "indonesia-65",
+      "country": "Indonesia",
+      "industry": "Media & Entertainment",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Vero",
+      "question": "What about the company's biggest focus right now in Indonesia, what opportunities do the agency see in the market?"
+    },
+    {
+      "id": "indonesia-66",
+      "country": "Indonesia",
+      "industry": "Media & Entertainment",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Vero",
+      "question": "Which areas are seeing the most traction here, PR, influencer marketing, digital, creative, crisis comms, and where do you expect the fastest growth over the next couple of years?"
+    },
+    {
+      "id": "indonesia-67",
+      "country": "Indonesia",
+      "industry": "Media & Entertainment",
+      "category": "HR & Workforce",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Vero",
+      "question": "Indonesia’s agency world is fiercely competitive for talent. How are you building and keeping a strong team, and what’s distinctive about your agency's culture here?"
+    },
+    {
+      "id": "indonesia-68",
+      "country": "Indonesia",
+      "industry": "Media & Entertainment",
+      "category": "Sustainability/ESG",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Vero",
+      "question": "Your agency is known for its Clean Creatives pledge and decision not to work with fossil fuel clients. How does that play out in Indonesia, where many industries are still resource-based?"
+    },
+    {
+      "id": "indonesia-69",
+      "country": "Indonesia",
+      "industry": "Media & Entertainment",
+      "category": "Technology and Innovation",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Vero",
+      "question": "With AI and analytics transforming PR and marketing, how is the agency staying ahead while keeping campaigns creative and culturally grounded?"
+    },
+    {
+      "id": "indonesia-70",
+      "country": "Indonesia",
+      "industry": "Media & Entertainment",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Vero",
+      "question": "Looking ahead, what do you want the agency to look like in size, reputation, and impact on the industry?"
+    },
+    {
+      "id": "indonesia-71",
+      "country": "Indonesia",
+      "industry": "Media & Entertainment",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Vero",
+      "question": "Can you share a recent campaign in Indonesia that really captures the agency's approach and philosophy? What made it stand out?"
+    },
+    {
+      "id": "indonesia-72",
+      "country": "Indonesia",
+      "industry": "Media & Entertainment",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Vero",
+      "question": "How do Indonesian clients’ expectations differ from those in other Southeast Asian markets where the agency operates?"
+    },
+    {
+      "id": "indonesia-73",
+      "country": "Indonesia",
+      "industry": "Media & Entertainment",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Vero",
+      "question": "What role do you see Indonesia playing in the agency's overall growth story in Southeast Asia?"
+    },
+    {
+      "id": "indonesia-74",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Corporate Strategy",
+      "scenario": "Press Conference/Media Briefing",
+      "tone": "",
+      "client": "Wardah",
+      "question": "What does this award mean to the brand?"
+    },
+    {
+      "id": "indonesia-75",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Sustainability/ESG",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Wardah",
+      "question": "Could you share the brand's vision for Indonesia’s fashion industry and its contribution to empowering Indonesian women?"
+    },
+    {
+      "id": "indonesia-76",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Wardah",
+      "question": "Having received the Fashion Game Changer award, in what ways does the brand has become a true game changer in Indonesia’s fashion scene?"
+    },
+    {
+      "id": "indonesia-77",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Financial Performance",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Wardah",
+      "question": "What are the brand's projections and goals for this year?"
+    },
+    {
+      "id": "indonesia-78",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "HR & Workforce",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Wardah",
+      "question": "What does the Women of Colour & Creativity award mean to you?"
+    },
+    {
+      "id": "indonesia-79",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "HR & Workforce",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Wardah",
+      "question": "You often share content about your creative and artistic process on social media, which has gained a lot of attention from netizens. What message do you want to convey to the public, especially to women who aspire to work in the creative and art industries?"
+    },
+    {
+      "id": "indonesia-80",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Technology and Innovation",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Wardah",
+      "question": "How has social media influenced your creative process and artistic journey so far?"
+    },
+    {
+      "id": "indonesia-81",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Corporate Strategy",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Wardah",
+      "question": "The brand is also managed by another brand and a social charity initiative. What do you aim to bring through these two ventures?"
+    },
+    {
+      "id": "indonesia-82",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "HR & Workforce",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Wardah",
+      "question": "Do you have any tips or messages for women who are also interested in the world of art?"
+    },
+    {
+      "id": "indonesia-83",
+      "country": "Indonesia",
+      "industry": "FMCG",
+      "category": "Non-business",
+      "scenario": "Thought Leadership/Exclusive Interview",
+      "tone": "",
+      "client": "Wardah",
+      "question": "Lastly, could you share your makeup tips and must-have items?"
+    },
+    {
+      "id": "philippines-1",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "According to the 2025 report on the Work Trend Index, it mentioned that almost 90% percent of Filipino leaders say that this is going to be a pivotal year to rethink core strategies and operations. As of the moment, how would you assess Filipino business leaders’ confidence level in rolling out their AI strategies?"
+    },
+    {
+      "id": "philippines-2",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "What challenges are hampering the adoption of AI? Are there specific industries that are falling behind?"
+    },
+    {
+      "id": "philippines-3",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "HR & Workforce",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "The report also mentioned that 80% of the Philippine leaders plan to hire people with AI-related skills. Can you specify what skills these are and how these skills evolved since AI was first introduced? And what is the expertise level that companies are looking for?"
+    },
+    {
+      "id": "philippines-4",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "Comparing the Philippines to other countries, how is the Philippines comparing to other countries?"
+    },
+    {
+      "id": "philippines-5",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "How ready are PH companies with regards to having human-led and agent-operated AI since we can foresee that this is going to be the future already?"
+    },
+    {
+      "id": "philippines-6",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "HR & Workforce",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "With more companies expected to work with an AI-powered agent (a digital colleague), how can companies properly discern the proper human-agent ratio since there are concerns that AI will be replacing human workers? What is the ideal ratio?"
+    },
+    {
+      "id": "philippines-7",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "HR & Workforce",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "How can workers be better at leading their AI agents?"
+    },
+    {
+      "id": "philippines-8",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "How can AI affect productivity in terms of helping the company achieve their goals?"
+    },
+    {
+      "id": "philippines-9",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "HR & Workforce",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "According to the report, 33% plan to automate some roles within companies. What companies are at this point still at risk of worker displacement? How can workers, threatened by AI, ensure their place in their jobs?"
+    },
+    {
+      "id": "philippines-10",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Regulatory Compliance",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "AI Agents are quick to adapt. How can they ensure that these agents are still ethical?"
+    },
+    {
+      "id": "philippines-11",
+      "country": "Philippines",
+      "industry": "Goverment/Public Sector",
+      "category": "Regulatory Compliance",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "How does Copilot ensure that it responds to a changing AI-driven workforce, and are there specific policies or measures that you would suggest to the government?"
+    },
+    {
+      "id": "philippines-12",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Regulatory Compliance",
+      "scenario": "Media Briefing",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "Does MSFT use Rappler/any newsroom's content to train AI/Copilot (without properly compensating the newsroom)?"
+    },
+    {
+      "id": "philippines-13",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Media Briefing",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "What are the indicators that a company has successfully used AI?"
+    },
+    {
+      "id": "philippines-14",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Media & Entertainment",
+      "scenario": "Media Briefing",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "Would you use AI to draft an op-ed?"
+    },
+    {
+      "id": "philippines-15",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Media & Entertainment",
+      "scenario": "Media Briefing",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "How should AI disclose its role in published content?"
+    },
+    {
+      "id": "philippines-16",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "HR & Workforce",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "What is work going to look like? And is the new kind of work going to be created at a faster pace and it destroys it (existing work)?"
+    },
+    {
+      "id": "philippines-17",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "“Upskill” is the new operative word, but what are “Frontier Firms” and “Digital” Labor”. What are these and how is it going to change and pivot the whole system of labor?"
+    },
+    {
+      "id": "philippines-18",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "How do we narrow the gap between C-suite and what the workers should correlate on what needs to be done to make the business more productive?"
+    },
+    {
+      "id": "philippines-19",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "How does Copilot work for you at any given day at C-suite?"
+    },
+    {
+      "id": "philippines-20",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Risk/Crisis",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "Follow-up: It probably took away a lot of assistance and assistants in your division, presumably there were jobs lost because you use Copilot?"
+    },
+    {
+      "id": "philippines-21",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "What about your customers and clients? There were a lot of uncertainties in the US and a lot also are in the wait-and-see (capex on hold), how is this affecting Microsoft then?"
+    },
+    {
+      "id": "philippines-22",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Financial Performance",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "Follow-up: Are they putting more money for Microsoft’s products and services?"
+    },
+    {
+      "id": "philippines-23",
+      "country": "Philippines",
+      "industry": "Goverment/Public Sector",
+      "category": "Corporate Strategy",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "What are the AI jobs out there, for anyone watching and listening, where should they go for and learn from?"
+    },
+    {
+      "id": "philippines-24",
+      "country": "Philippines",
+      "industry": "FinTech",
+      "category": "Patnerships",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "Oxford Insights ranked the Philippines 65th out of 193 economies in terms of AI readiness. How would you assess the current state of AI readiness in the Philippines?"
+    },
+    {
+      "id": "philippines-25",
+      "country": "Philippines",
+      "industry": "Consumer Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "From your perspective, which sectors are ripe for the AI-driven transformation?"
+    },
+    {
+      "id": "philippines-26",
+      "country": "Philippines",
+      "industry": "Public Sector",
+      "category": "HR & Workforce",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "Can you share more about Microsoft’s experience in helping the banking and financial companies with their AI transformation?"
+    },
+    {
+      "id": "philippines-27",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "HR & Workforce",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "On AI for customer service - Are you talking the AI chat bots and stuff?"
+    },
+    {
+      "id": "philippines-28",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Risk/Crisis",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "One of the main issues right now is the lack of AI equipped talent in the Philippines. According to a recent report by BusinessWorld, the IT and BPO industries are seeing a shortage in employees that are equipped for AI. How do you think the Philippines can address that issue?"
+    },
+    {
+      "id": "philippines-29",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "HR & Workforce",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "What exactly are the AI skills that workers should acquire? Do they need upskilling or reskilling? What kind of training would they need?"
+    },
+    {
+      "id": "philippines-30",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "HR & Workforce",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "You mentioned in a previous report that harnessing AI is the skill of the future. How important is it for a fresh graduate to have those skills to be successful in the workplace of the future?"
+    },
+    {
+      "id": "philippines-31",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "It was earlier this year where Microsoft and LinkedIn released the 2024 Work Trend Index on the use of AI in the workplace. The findings showed that Filipinos use AI more than their counterparts in the regional and global counterparts. Why do you think that?"
+    },
+    {
+      "id": "philippines-32",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "Were there other parts in the report that you find indicative of the trend for AI in the Philippines?"
+    },
+    {
+      "id": "philippines-33",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "Why do you think companies are on the fence about coming up with an AI strategy? Is it because they’re scared? Or is it because they don’t know where to start?"
+    },
+    {
+      "id": "philippines-34",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "HR & Workforce",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "You mentioned that employees are leading the way. Is it because they’re younger?"
+    },
+    {
+      "id": "philippines-35",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Financial Performance",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "Another concern of some businesses is the cost of deploying AI. I believe Microsoft commissioned a study with IDC on the business returns of AI investment. Can you share more about that?"
+    },
+    {
+      "id": "philippines-36",
+      "country": "Philippines",
+      "industry": "Goverment/Public Sector",
+      "category": "HR & Workforce",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "The government is looking at developing and leveraging AI to drive economic growth. The Trade department is also coming up with the Philippines National AI Strategy roadmap with a vision of the Philippines becoming an AI hub – so, what do you want to see in the country's AI roadmap? What role should public policy and regulation play in promoting AI in the Philippines?"
+    },
+    {
+      "id": "philippines-37",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Financial Performance",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "How do you see Microsoft's role in supporting the AI business imperative? What are the opportunities you see for businesses?"
+    },
+    {
+      "id": "philippines-38",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Regulatory Compliance",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "There have been also criticisms about AI and that it will lead to job displacement as well as concerns over ethics, privacy, and the broader impact on society. How would you respond to that and how would you allay those concerns?"
+    },
+    {
+      "id": "philippines-39",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Regulatory Compliance",
+      "scenario": "Media Briefing",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "Transparency in AI-generated content, emphasizing the importance of proper credit."
+    },
+    {
+      "id": "philippines-40",
+      "country": "Philippines",
+      "industry": "Media & Entertainment",
+      "category": "technology & Innovation",
+      "scenario": "Media Briefing",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "Technical inquiries about creating custom ChatGPT bots for editorial use and transitioning these to autopilot systems."
+    },
+    {
+      "id": "philippines-41",
+      "country": "Philippines",
+      "industry": "Media & Entertainment",
+      "category": "Regulatory Compliance",
+      "scenario": "Media Briefing",
+      "tone": "",
+      "client": "Microsoft",
+      "question": "Whether Microsoft's Co-Pilot could be turned off for crawls to respect journalists' personal work processes."
+    },
+    {
+      "id": "philippines-42",
+      "country": "Philippines",
+      "industry": "Government/Public Sector",
+      "category": "Technology & Innovation",
+      "scenario": "Press Conference",
+      "tone": "",
+      "client": "ASEAN Foundation",
+      "question": "“What is the most urgent digital or AI readiness gap ASEAN must address in the next 12 months?”"
+    },
+    {
+      "id": "philippines-43",
+      "country": "Philippines",
+      "industry": "Government/Public Sector",
+      "category": "Technology & Innovation",
+      "scenario": "Press Conference",
+      "tone": "",
+      "client": "ASEAN Foundation",
+      "question": "“How does the ASEAN Digital Outlook come into play with the Digital Economic Framework Agreement the Philippines is pushing as summit host — how does this outlook complement that framework?”"
+    },
+    {
+      "id": "philippines-44",
+      "country": "Philippines",
+      "industry": "Government/Public Sector",
+      "category": "Technology & Innovation",
+      "scenario": "Press Conference",
+      "tone": "",
+      "client": "ASEAN Foundation",
+      "question": "“How can the Digital Outlook benefit stakeholders here (e.g., the Philippines)?”"
+    },
+    {
+      "id": "philippines-45",
+      "country": "Philippines",
+      "industry": "Government/Public Sector",
+      "category": "Technology & Innovation",
+      "scenario": "Press Conference",
+      "tone": "",
+      "client": "ASEAN Foundation",
+      "question": "“On education: what are the plans or policies for the ethical and responsible use of AI in schools and colleges?”"
+    },
+    {
+      "id": "philippines-46",
+      "country": "Philippines",
+      "industry": "Government/Public Sector",
+      "category": "Technology & Innovation",
+      "scenario": "Press Conference",
+      "tone": "",
+      "client": "ASEAN Foundation",
+      "question": "“Some locals are hesitant or resistant to AI — how will you address that skepticism?”"
+    },
+    {
+      "id": "philippines-47",
+      "country": "Philippines",
+      "industry": "Government/Public Sector",
+      "category": "Technology & Innovation",
+      "scenario": "Press Conference",
+      "tone": "",
+      "client": "ASEAN Foundation",
+      "question": "“As AI adoption grows and the risk landscape expands (deepfakes, scams, malicious tools like Grok), are ASEAN efforts keeping pace — are we ahead of the curve?”"
+    },
+    {
+      "id": "philippines-48",
+      "country": "Philippines",
+      "industry": "Government/Public Sector",
+      "category": "Technology & Innovation",
+      "scenario": "Press Conference",
+      "tone": "",
+      "client": "ASEAN Foundation",
+      "question": "“What impacts do you foresee on students and teachers, and how will generational differences in adoption be managed?”"
+    },
+    {
+      "id": "philippines-49",
+      "country": "Philippines",
+      "industry": "Government/Public Sector",
+      "category": "Technology & Innovation",
+      "scenario": "Press Conference",
+      "tone": "",
+      "client": "ASEAN Foundation",
+      "question": "“What’s your vision for using AI in the classroom beyond automating essay writing — how should teachers actually apply AI?”"
+    },
+    {
+      "id": "philippines-50",
+      "country": "Philippines",
+      "industry": "Government/Public Sector",
+      "category": "Technology & Innovation",
+      "scenario": "Press Conference",
+      "tone": "",
+      "client": "ASEAN Foundation",
+      "question": "“On political dynamics: were there reservations (e.g., from the Department of Education) about prioritizing basics before AI, and how did that affect executing the Digital Outlook?”"
+    },
+    {
+      "id": "philippines-51",
+      "country": "Philippines",
+      "industry": "Government/Public Sector",
+      "category": "Technology & Innovation",
+      "scenario": "Press Conference",
+      "tone": "",
+      "client": "ASEAN Foundation",
+      "question": "“How does Southeast Asia compare to other regions on AI readiness, and what should the Philippines do to keep pace with AI driven changes?” driven changes?”"
+    },
+    {
+      "id": "philippines-52",
+      "country": "Philippines",
+      "industry": "Government/Public Sector",
+      "category": "Technology & Innovation",
+      "scenario": "Press Conference",
+      "tone": "",
+      "client": "ASEAN Foundation",
+      "question": "“Any updates on the ASEAN Digital Master Plan (2026–2030) and how it connects with the AI Ready ASEAN program?”"
+    },
+    {
+      "id": "philippines-53",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Black and Veatch",
+      "question": "What differentiates Black & Veatch in delivering large-scale infrastructure projects?"
+    },
+    {
+      "id": "philippines-54",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Black and Veatch",
+      "question": "How does Black & Veatch view the role of artificial intelligence in infrastructure projects?"
+    },
+    {
+      "id": "philippines-55",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Black and Veatch",
+      "question": "What impact will AI and digital growth have on infrastructure demand in the Philippines?"
+    },
+    {
+      "id": "philippines-56",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Black and Veatch",
+      "question": "What are the key infrastructure challenges associated with data center expansion?"
+    },
+    {
+      "id": "philippines-57",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Black and Veatch",
+      "question": "How does Black & Veatch view the balance between renewable energy and grid stability?"
+    },
+    {
+      "id": "philippines-58",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Black and Veatch",
+      "question": "What is the role of asset management and data in improving infrastructure reliability?"
+    },
+    {
+      "id": "philippines-59",
+      "country": "Philippines",
+      "industry": "Enterprise Tech",
+      "category": "Corporate Strategy",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Black and Veatch",
+      "question": "What needs to happen between now and 2026 to deliver energy and infrastructure ambitions?"
+    },
+    {
+      "id": "philippines-60",
+      "country": "Philippines",
+      "industry": "Consumer Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Dyson",
+      "question": "What’s the difference between flaky salt and the traditional salt that’s mass-produced and sold in the market?"
+    },
+    {
+      "id": "philippines-61",
+      "country": "Philippines",
+      "industry": "Consumer Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Dyson",
+      "question": "What would be the market position of flaky salt if we introduce it?"
+    },
+    {
+      "id": "philippines-62",
+      "country": "Philippines",
+      "industry": "Consumer Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Dyson",
+      "question": "Why is flaky salt more expensive than ordinary table salt and traditional salt?"
+    },
+    {
+      "id": "philippines-63",
+      "country": "Philippines",
+      "industry": "Consumer Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Dyson",
+      "question": "What challenges do you anticipate in mass-producing this product, and how do you plan to overcome them?"
+    },
+    {
+      "id": "philippines-64",
+      "country": "Philippines",
+      "industry": "Consumer Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Dyson",
+      "question": "How do you plan to spend the prize award?"
+    },
+    {
+      "id": "philippines-65",
+      "country": "Philippines",
+      "industry": "Consumer Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Dyson",
+      "question": "Did you receive any help from the government or institutions?"
+    },
+    {
+      "id": "philippines-66",
+      "country": "Philippines",
+      "industry": "Consumer Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Dyson",
+      "question": "What’s the next step you plan to take now?"
+    },
+    {
+      "id": "philippines-67",
+      "country": "Philippines",
+      "industry": "Consumer Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Dyson",
+      "question": "Do you think this will be affordable for people in coastal communities, especially those who want to start a flaky salt business? How long do you think it will take them to produce the final product?"
+    },
+    {
+      "id": "philippines-68",
+      "country": "Philippines",
+      "industry": "Consumer Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Dyson",
+      "question": "Can you walk us through the process of how the solar equipment produces salt?"
+    },
+    {
+      "id": "philippines-69",
+      "country": "Philippines",
+      "industry": "Consumer Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Dyson",
+      "question": "Are you open to investors?"
+    },
+    {
+      "id": "philippines-70",
+      "country": "Philippines",
+      "industry": "Consumer Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Dyson",
+      "question": "Do you think salt farming has been affected by urbanization?"
+    },
+    {
+      "id": "philippines-71",
+      "country": "Philippines",
+      "industry": "Consumer Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Dyson",
+      "question": "When the time comes to mass-produce your machine, do you estimate that the salt it produces will be cheaper than imported salt, helping reduce our imports?"
+    },
+    {
+      "id": "philippines-72",
+      "country": "Philippines",
+      "industry": "Consumer Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Dyson",
+      "question": "For instance, from one bucket of seawater, how much flaky salt can be produced?"
+    },
+    {
+      "id": "philippines-73",
+      "country": "Philippines",
+      "industry": "Consumer Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Dyson",
+      "question": "Can you give us an idea of the traditional method of salt-making in Pangasinan?"
+    },
+    {
+      "id": "philippines-74",
+      "country": "Philippines",
+      "industry": "Consumer Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Dyson",
+      "question": "What’s the timeline for producing salt using the traditional method versus SolAsin?"
+    },
+    {
+      "id": "philippines-75",
+      "country": "Philippines",
+      "industry": "Consumer Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Dyson",
+      "question": "Is anyone else producing flaky salt in the Philippines?"
+    },
+    {
+      "id": "philippines-76",
+      "country": "Philippines",
+      "industry": "Consumer Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Dyson",
+      "question": "Does the machine have other uses?"
+    },
+    {
+      "id": "philippines-77",
+      "country": "Philippines",
+      "industry": "Consumer Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Dyson",
+      "question": "Do you see yourself building a startup around SolAsin or integrating it with companies in the food or renewable energy industry?"
+    },
+    {
+      "id": "philippines-78",
+      "country": "Philippines",
+      "industry": "Consumer Tech",
+      "category": "Technology & Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "Dyson",
+      "question": "Do you have any parting words about your social mission of empowering coastal families?"
+    },
+    {
+      "id": "philippines-79",
+      "country": "Philippines",
+      "industry": "Consumer Goods",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Royal Canin",
+      "question": "What’s the rationale of this event? So, you believe that a storybook is the most effective way of communicating responsible pet ownership to children?"
+    },
+    {
+      "id": "philippines-80",
+      "country": "Philippines",
+      "industry": "Consumer Goods",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Royal Canin",
+      "question": "Are you also thinking of packaging the book with the RC products for those that avail the book?"
+    },
+    {
+      "id": "philippines-81",
+      "country": "Philippines",
+      "industry": "Consumer Goods",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Royal Canin",
+      "question": "Several celebrities were in attendance today—are they involved in the campaign at any capacity?"
+    },
+    {
+      "id": "philippines-82",
+      "country": "Philippines",
+      "industry": "Consumer Goods",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Royal Canin",
+      "question": "Will you do a book tour in schools or is it open in bookstores?"
+    },
+    {
+      "id": "philippines-83",
+      "country": "Philippines",
+      "industry": "Consumer Goods",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Royal Canin",
+      "question": "How do I stop getting my dog to stop eating my socks?"
+    },
+    {
+      "id": "philippines-84",
+      "country": "Philippines",
+      "industry": "Consumer Goods",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Royal Canin",
+      "question": "Will the book be presented in different Filipino languages?"
+    },
+    {
+      "id": "philippines-85",
+      "country": "Philippines",
+      "industry": "Consumer Goods",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Royal Canin",
+      "question": "Will there be any spinoffs focusing on each of the pillars (or going into detail about proper care/ownership)?"
+    },
+    {
+      "id": "philippines-86",
+      "country": "Philippines",
+      "industry": "Consumer Goods",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Royal Canin",
+      "question": "On cats, how can families protect themselves from Toxoplasmosis?"
+    },
+    {
+      "id": "philippines-87",
+      "country": "Philippines",
+      "industry": "Consumer Goods",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Royal Canin",
+      "question": "When you adopt a stray, what are some important steps that families need to take?"
+    },
+    {
+      "id": "philippines-88",
+      "country": "Philippines",
+      "industry": "Consumer Goods",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Royal Canin",
+      "question": "How did you negotiate with your kids on whether to get a dog or cat—manage their impulses about getting pets? Can you give tips?"
+    },
+    {
+      "id": "philippines-89",
+      "country": "Philippines",
+      "industry": "Consumer Goods",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Royal Canin",
+      "question": "What was the reason for choosing your publisher for this book? Why not a more established one like Anvil?"
+    },
+    {
+      "id": "philippines-90",
+      "country": "Philippines",
+      "industry": "Consumer Goods",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Royal Canin",
+      "question": "You spoke about advocacy - how does the storybook align with the brand’s advocacy?"
+    },
+    {
+      "id": "philippines-91",
+      "country": "Philippines",
+      "industry": "Consumer Goods",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "Royal Canin",
+      "question": "Are there plans to partner with animal welfare groups as well?"
+    },
+    {
+      "id": "philippines-92",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Technology and Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "WISE",
+      "question": "Your research found that Filipino MSMEs lost an estimated PHP 39.5 billion in 2024 due to exchange rate markups. How is Wise directly solving this massive hidden cost problem for the 99.6% of Philippine businesses that are MSMEs?"
+    },
+    {
+      "id": "philippines-93",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Technology and Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "WISE",
+      "question": "Freelancers and small businesses often struggle to receive payments from international clients in the right currency without a long, expensive process. How does the new Wise Business Account simplify the complexity of cross-border receiving and holding funds?"
+    },
+    {
+      "id": "philippines-94",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Technology and Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "WISE",
+      "question": "Speed is critical for business cash flow, yet traditional payments often take days. What is Wise's technological advantage in making international payments for Filipino businesses faster and more reliable?"
+    },
+    {
+      "id": "philippines-95",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Technology and Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "WISE",
+      "question": "The market is crowded with local banks, e-wallets, and other global fintechs. What is Wise's fundamental competitive advantage in the Philippines that allows you to sustain lower costs compared to others?"
+    },
+    {
+      "id": "philippines-96",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Technology and Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "WISE",
+      "question": "Fintech innovation is fast-paced. How is Wise ensuring that its product and service offerings in the Philippines continue to evolve beyond the core money transfer, to keep up with customer needs?"
+    },
+    {
+      "id": "philippines-97",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Technology and Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "WISE",
+      "question": "Tell us about Wise’s journey in the Philippines - what brought you here?"
+    },
+    {
+      "id": "philippines-98",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Technology and Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "WISE",
+      "question": "Why are you launching Wise Business in the Philippines? / What are the challenges Philippine SMEs face when trying to scale abroad?"
+    },
+    {
+      "id": "philippines-99",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Technology and Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "WISE",
+      "question": "Where do you see the biggest potential for PH SME growth in the next 3-5 years?"
+    },
+    {
+      "id": "philippines-100",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Technology and Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "WISE",
+      "question": "How important is financial inclusion for unlocking the strategic growth potential of the broader SME sector in the Philippines?"
+    },
+    {
+      "id": "philippines-101",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Technology and Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "WISE",
+      "question": "How does Wise Business actually work, and what can Filipino businesses do with it?"
+    },
+    {
+      "id": "philippines-102",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Technology and Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "WISE",
+      "question": "How do you see Wise Business helping Filipino MSMEs compete in the global market?"
+    },
+    {
+      "id": "philippines-103",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Technology and Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "WISE",
+      "question": "With so many fintechs and banks offering digital services, how does Wise plan to stand out in the Philippines?"
+    },
+    {
+      "id": "philippines-104",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Technology and Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "WISE",
+      "question": "What are Wise's long-term goals and visions for its presence in the Philippines, and how does it aim to contribute to the local economy and financial landscape?"
+    },
+    {
+      "id": "philippines-105",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Technology and Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "WISE",
+      "question": "How is Wise handling the rise of phishing scams and protecting its customers?"
+    },
+    {
+      "id": "philippines-106",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Technology and Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "WISE",
+      "question": "What’s the impact of the tariffs on Wise’s cross-border payment volumes? Any impact on your FX margins? Or on customer acquisition?"
+    },
+    {
+      "id": "philippines-107",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Technology and Innovation",
+      "scenario": "Exclusive Interview",
+      "tone": "",
+      "client": "WISE",
+      "question": "Have you seen any spikes or reductions in currency pairings following the tariffs?"
+    },
+    {
+      "id": "philippines-108",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "Why are you launching Wise Business in the Philippines? Why now?"
+    },
+    {
+      "id": "philippines-109",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "But Filipinos have already been using Wise Business before this? What happened?"
+    },
+    {
+      "id": "philippines-110",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "Do you have an office in the Philippines?"
+    },
+    {
+      "id": "philippines-111",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "Who are your target customers?"
+    },
+    {
+      "id": "philippines-112",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "Are you hiring in the Philippines?"
+    },
+    {
+      "id": "philippines-113",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "Any targets to achieve in the Philippines?"
+    },
+    {
+      "id": "philippines-114",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "How much have you invested in the Philippines till now?"
+    },
+    {
+      "id": "philippines-115",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "Customer numbers in the Philippines?"
+    },
+    {
+      "id": "philippines-116",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "Are you becoming a neobank?"
+    },
+    {
+      "id": "philippines-117",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "Do you work with any partners in the Philippines?"
+    },
+    {
+      "id": "philippines-118",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "Do you plan to bring X product to the Philippines soon e.g. Wise Assets, Wise Platform"
+    },
+    {
+      "id": "philippines-119",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "Does Wise have plans to launch other Wise features that are currently unavailable for the Philippine market?"
+    },
+    {
+      "id": "philippines-120",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "How does Wise plan to educate Filipino consumers about the benefits and usage of its platform?"
+    },
+    {
+      "id": "philippines-121",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "What are Wise's long-term goals and visions for its presence in the Philippines, and how does it aim to contribute to the local economy and financial landscape?"
+    },
+    {
+      "id": "philippines-122",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "Is Wise regulated? Are you compliant with regulations?"
+    },
+    {
+      "id": "philippines-123",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "What does Wise report to the regulations? How about my taxes?"
+    },
+    {
+      "id": "philippines-124",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "Who are Wise’s competitors?"
+    },
+    {
+      "id": "philippines-125",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "Do you see yourself as direct competitors to local e-money players e.g. DANA, OVO etc"
+    },
+    {
+      "id": "philippines-126",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "What features can Filipino businesses look forward to with a Wise Business Account?"
+    },
+    {
+      "id": "philippines-127",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "Does the Wise Business Account have features tailored to the Philippines?"
+    },
+    {
+      "id": "philippines-128",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "What do I need to set up a Wise Business Account in the Philippines?"
+    },
+    {
+      "id": "philippines-129",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "What are the transaction limits for Wise Business?"
+    },
+    {
+      "id": "philippines-130",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "How much does it cost to use Wise Business in the Philippines?"
+    },
+    {
+      "id": "philippines-131",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "How much does it cost to withdraw cash from ATMs locally and abroad?"
+    },
+    {
+      "id": "philippines-132",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "How do Wise Business prices compare to providers like Western Union, PayPal, or Payoneer?"
+    },
+    {
+      "id": "philippines-133",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "How is Wise handling the rise of phishing scams and protecting its customers?"
+    },
+    {
+      "id": "philippines-134",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "What does transparency in cross-border payments really mean, and why is it important for Filipinos?"
+    },
+    {
+      "id": "philippines-135",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "How does Wise ensure transparency when it comes to fees and exchange rates?"
+    },
+    {
+      "id": "philippines-136",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "Many Filipinos still rely on traditional remittance providers. What makes Wise different in terms of transparency?"
+    },
+    {
+      "id": "philippines-137",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "How does transparency contribute to “financial health” for Filipinos?"
+    },
+    {
+      "id": "philippines-138",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "Can you share data on how much money flows through Wise to and from the Philippines?"
+    },
+    {
+      "id": "philippines-139",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "What are the top remittance corridors for Filipinos using Wise?"
+    },
+    {
+      "id": "philippines-140",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "Who typically uses Wise — OFWs, MSMEs, freelancers?"
+    },
+    {
+      "id": "philippines-141",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "How has remittance behavior changed in recent years, especially with fintech players like Wise in the market?"
+    },
+    {
+      "id": "philippines-142",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "Now that the US has passed their “One, Big, Beautiful Bill,” will this have any impact on remittances or Wise customers, particularly those sending and receiving money across borders?"
+    },
+    {
+      "id": "philippines-143",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "Will Wise Business Philippines support Google Pay or Apple Pay?"
+    },
+    {
+      "id": "philippines-144",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "What are your thoughts on Revolut setting up a global tech hub in Manila—will Wise do the same"
+    },
+    {
+      "id": "philippines-145",
+      "country": "Philippines",
+      "industry": "Consumer tech",
+      "category": "Product Launch",
+      "scenario": "Product Launch Event",
+      "tone": "",
+      "client": "WISE",
+      "question": "Is Wise Business considering launching a QR feature or tap-to-pay like GCash?"
+    }
+  ]
+}
