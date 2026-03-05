@@ -47,8 +47,8 @@ export function generateMock(brief: BriefingInput, anchors: LibraryItem[]): Pres
     {
       base_question_id: "LQ-3",
       followups: [
-        { question: "What independent evidence backs that up (audits, benchmarks, partners)?", trap_type: "Proof Gap", rationale: "Forces verification beyond internal claims." },
-        { question: "If that evidence isn’t available, why should the public believe you?", trap_type: "Pressure", rationale: "Tests credibility under uncertainty." },
+        { question: "What independent evidence backs that up (audits, benchmarks, partners)?", trap_type: "Proof Gap" as const, rationale: "Forces verification beyond internal claims." },
+        { question: "If that evidence isn’t available, why should the public believe you?", trap_type: "Pressure" as const, rationale: "Tests credibility under uncertainty." },
       ]
     }
   ];
